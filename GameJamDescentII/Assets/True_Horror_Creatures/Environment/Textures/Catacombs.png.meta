@@ -1,7 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Environment/Textures/Catacombs.png.meta
 guid: 921e4c8e07210c7448fbfdb8127db7a9
 timeCreated: 1484393087
 licenseType: Store
+========
+guid: ff24d39d1301caa46b019ad8200c99a5
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_back6.png.meta
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -27,12 +31,20 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Environment/Textures/Catacombs.png.meta
   maxTextureSize: 2048
+========
+  maxTextureSize: 1024
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_back6.png.meta
   textureSettings:
     filterMode: -1
     aniso: -1
     mipBias: -1
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Environment/Textures/Catacombs.png.meta
     wrapMode: -1
+========
+    wrapMode: 1
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_back6.png.meta
   nPOTScale: 1
   lightmap: 0
   rGBM: 0

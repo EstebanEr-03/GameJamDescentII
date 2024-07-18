@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Environment.meta
 guid: 137c8b7080b09b249813cb0d6f3b46b2
 folderAsset: yes
 timeCreated: 1484238609
+========
+guid: c3044d2c539506749a9607c66c189c14
+folderAsset: yes
+timeCreated: 1487089022
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Example scenes.meta
 licenseType: Store
 DefaultImporter:
   userData: 

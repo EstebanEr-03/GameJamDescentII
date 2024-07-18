@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Horror_creature6_v1.0/THC6_readme.txt.meta
 guid: ef93e853f9f06a344966f9450156a2bb
 timeCreated: 1508672806
+========
+guid: ae022090ef50d414e9f79013c22b1ad6
+timeCreated: 1487067706
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Readme.txt.meta
 licenseType: Store
 TextScriptImporter:
   userData: 

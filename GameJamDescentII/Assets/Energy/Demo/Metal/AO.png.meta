@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/AO.png.meta
 guid: d10b73b4ece9e904f9394422563ba6cf
 timeCreated: 1493858469
+========
+guid: 26d4d63e94c354a478b2fe05bb112302
+timeCreated: 1486719706
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png.meta
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
@@ -30,9 +35,15 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     filterMode: -1
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/AO.png.meta
     aniso: -1
     mipBias: -1
     wrapMode: -1
+========
+    aniso: 16
+    mipBias: -1
+    wrapMode: 0
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png.meta
   nPOTScale: 1
   lightmap: 0
   rGBM: 0
@@ -46,7 +57,11 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 0
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/AO.png.meta
   textureType: -1
+========
+  textureType: 0
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice.png.meta
   buildTargetSettings: []
   spriteSheet:
     sprites: []

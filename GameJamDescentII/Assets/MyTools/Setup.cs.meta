@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/MyTools/Setup.cs.meta
 guid: c2e340e7182b7434eafdc9df8017085e
+========
+guid: 7ac57b2d2b75ade4a85f36f6df1f0cf4
+>>>>>>>> main:GameJamDescentII/Assets/HealthBar.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

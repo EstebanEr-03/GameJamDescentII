@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/_Project/Scripts/CameraManager.cs.meta
 guid: 373c3c90692717047b9408d5902b4be9
+========
+guid: 41349e556f2367b4f972c95ae4a8bb3d
+>>>>>>>> main:GameJamDescentII/Assets/PlayerShoot.cs.meta
 MonoImporter:
   externalObjects: {}
   serializedVersion: 2

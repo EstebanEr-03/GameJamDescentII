@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Height.png.meta
 guid: f54dc44f28c25b346b102758ccc6936d
 timeCreated: 1493858700
+========
+guid: d35a86981ce0835469c36ee0215785b3
+timeCreated: 1486754754
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/black-color.png.meta
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
@@ -29,8 +34,13 @@ TextureImporter:
   textureFormat: -1
   maxTextureSize: 2048
   textureSettings:
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Height.png.meta
     filterMode: -1
     aniso: -1
+========
+    filterMode: 0
+    aniso: 0
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/black-color.png.meta
     mipBias: -1
     wrapMode: -1
   nPOTScale: 1

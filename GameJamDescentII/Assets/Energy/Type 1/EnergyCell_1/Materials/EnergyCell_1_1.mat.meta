@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Type 1/EnergyCell_1/Materials/EnergyCell_1_1.mat.meta
 guid: 422735d91f6c23a48ae3930e0a515f4e
+========
+guid: e7c2108b1bd38534d9d136cb3dc7ecaf
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Materials/base-color-normal.mat.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 2100000

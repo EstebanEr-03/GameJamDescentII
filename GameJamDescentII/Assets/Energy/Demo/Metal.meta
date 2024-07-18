@@ -1,7 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal.meta
 guid: aaf5c8aaca3eb1341bcc0a031e24e971
 folderAsset: yes
 timeCreated: 1493857642
+========
+guid: bd233d1e21133c54c8a98546e614e351
+folderAsset: yes
+timeCreated: 1486748836
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Animations.meta
 licenseType: Store
 DefaultImporter:
   userData: 

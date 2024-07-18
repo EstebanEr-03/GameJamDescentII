@@ -1,8 +1,13 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Type 1/EnergyCell_1/Prefabs.meta
 guid: 484b420fdc3d79c45afcef468f8f2183
+========
+guid: a54965f822af06343a5ffdf446f11783
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Prefabs.meta
 folderAsset: yes
+timeCreated: 1486748113
+licenseType: Store
 DefaultImporter:
-  externalObjects: {}
   userData: 
   assetBundleName: 
   assetBundleVariant: 

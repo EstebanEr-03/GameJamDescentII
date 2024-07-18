@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Type 1/EnergyCell_1/Materials.meta
 guid: dafe1d304cd21fe4c8cf2f393efdc1de
+========
+guid: 12ad0e3da82357d44b8489eec16919d0
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/Obj/Materials.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

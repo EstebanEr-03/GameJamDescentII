@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy.meta
 guid: b7395053a2f308045ba12a26e1f74637
+========
+guid: 3773498a96baa074e8fa51300bde5821
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

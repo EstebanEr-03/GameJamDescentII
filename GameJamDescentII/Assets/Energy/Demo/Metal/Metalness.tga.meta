@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Metalness.tga.meta
 guid: bd7f32bbe9545eb4db26bbafa14539c4
 timeCreated: 1493858358
+========
+guid: a2439a5526984d64c804eae4d1d65b8a
+timeCreated: 1487061066
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png.meta
 licenseType: Store
 TextureImporter:
   fileIDToRecycleName: {}
@@ -8,7 +13,11 @@ TextureImporter:
   mipmaps:
     mipMapMode: 0
     enableMipMap: 1
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Metalness.tga.meta
     linearTexture: 0
+========
+    linearTexture: 1
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png.meta
     correctGamma: 0
     fadeOut: 0
     borderMipMap: 0
@@ -16,7 +25,7 @@ TextureImporter:
     mipMapFadeDistanceEnd: 3
   bumpmap:
     convertToNormalMap: 0
-    externalNormalMap: 0
+    externalNormalMap: 1
     heightScale: 0.25
     normalMapFilter: 0
   isReadable: 1
@@ -26,6 +35,7 @@ TextureImporter:
   cubemapConvolutionSteps: 7
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Metalness.tga.meta
   textureFormat: -3
   maxTextureSize: 2048
   textureSettings:
@@ -33,6 +43,15 @@ TextureImporter:
     aniso: -1
     mipBias: -1
     wrapMode: -1
+========
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png.meta
   nPOTScale: 1
   lightmap: 0
   rGBM: 0
@@ -46,7 +65,11 @@ TextureImporter:
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spritePixelsToUnits: 100
   alphaIsTransparency: 0
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Metalness.tga.meta
   textureType: 5
+========
+  textureType: 1
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Textures/lattice-emision-mask.png.meta
   buildTargetSettings: []
   spriteSheet:
     sprites: []

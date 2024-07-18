@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/MyTools.meta
 guid: 2c637f8c126ede645898b506ae295107
+========
+guid: d53e9bc7fcb4d274388d6ba5e0001403
+>>>>>>>> main:GameJamDescentII/Assets/Enemigo.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

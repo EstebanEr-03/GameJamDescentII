@@ -1,7 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Horror_creature6_v1.0/Textures/thc6_ao.png.meta
 guid: 4bd99862ffa08cb429cb4f8d415567c1
 timeCreated: 1508595451
 licenseType: Store
+========
+guid: e628d415a22918b469fa319d94fe6d8a
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_bottom4.png.meta
 TextureImporter:
   fileIDToRecycleName: {}
   serializedVersion: 2
@@ -27,12 +31,20 @@ TextureImporter:
   cubemapConvolutionExponent: 1.5
   seamlessCubemap: 0
   textureFormat: -1
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Horror_creature6_v1.0/Textures/thc6_ao.png.meta
   maxTextureSize: 2048
+========
+  maxTextureSize: 1024
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_bottom4.png.meta
   textureSettings:
     filterMode: -1
     aniso: -1
     mipBias: -1
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures/Horror_creature6_v1.0/Textures/thc6_ao.png.meta
     wrapMode: -1
+========
+    wrapMode: 1
+>>>>>>>> main:GameJamDescentII/Assets/ArvisMag_Assets/SpaceShuttle/SpaceSkyBox/GalaxyBgSkyBox_4096px_bottom4.png.meta
   nPOTScale: 1
   lightmap: 0
   rGBM: 0

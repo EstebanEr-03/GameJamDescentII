@@ -1,6 +1,11 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/Energy/Demo/Metal/Floor.mat.meta
 guid: f0cf28c7712f3be48b8dfc70f1c1d519
 timeCreated: 1493858766
+========
+guid: 087510c99a61ba64c878537da1363a66
+timeCreated: 1486797869
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Animations/door_1_close.anim.meta
 licenseType: Store
 NativeFormatImporter:
   userData: 

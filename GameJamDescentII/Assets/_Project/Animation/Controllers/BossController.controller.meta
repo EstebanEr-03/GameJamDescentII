@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/_Project/Animation/Controllers/BossController.controller.meta
 guid: 5cd03680608bd0b4f969c242000e4b11
+========
+guid: 1f47829031755f948adbaedd8b1c431f
+>>>>>>>> main:GameJamDescentII/Assets/Puerta2.controller.meta
 NativeFormatImporter:
   externalObjects: {}
   mainObjectFileID: 9100000

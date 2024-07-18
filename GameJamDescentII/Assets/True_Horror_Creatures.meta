@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/True_Horror_Creatures.meta
 guid: b25eb2e7229d42845a960f0797eed608
+========
+guid: ecda424a67df35b4ba745abb4bd363f4
+>>>>>>>> main:GameJamDescentII/Assets/ProBuilder Data.meta
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

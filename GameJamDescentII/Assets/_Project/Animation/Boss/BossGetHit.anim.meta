@@ -1,8 +1,12 @@
 fileFormatVersion: 2
+<<<<<<<< HEAD:GameJamDescentII/Assets/_Project/Animation/Boss/BossGetHit.anim.meta
 guid: eaed77a50561e474abee9d993ff79df4
+========
+guid: d9acc7c0d5006ee4583b8033408f1a88
+>>>>>>>> main:GameJamDescentII/Assets/Sci-Fi Styled Modular Pack/Materials/computer_wall_texture.mat.meta
 NativeFormatImporter:
   externalObjects: {}
-  mainObjectFileID: 7400000
+  mainObjectFileID: 2100000
   userData: 
   assetBundleName: 
   assetBundleVariant: 
