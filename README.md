@@ -6,6 +6,8 @@ GAME JAM
 - Cada grupo debe Diseñar y plantear una idea de videojuego, basado en el tema y pautas dadas por el docente.
 - Este objetivo se centra en el desarrollo de habilidades prácticas relacionadas con el diseño y programación de videojuegos, haciendo uso de los principios y arquitecturas de sistemas hipermedia. Además, destaca la importancia de utilizar metodologías apropiadas para el desarrollo de videojuegos y enfatiza la creación de un prototipo funcional como resultado tangible del aprendizaje.
 
+# Vista General del Menú Principal
+![Imagen](https://github.com/DeividN21/Prototipo1_Videojuego/blob/main/Captura%20de%20pantalla%202024-07-19%20215544.png?raw=true)
 
 # Instrucciones para Navegar por el Videojuego
 ### Primero:
